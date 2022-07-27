@@ -61,6 +61,8 @@
 - [Twitch Stream Manager](https://dashboard.twitch.tv/u/oophagapumilio/stream-manager)
 - [YouTube Studio](https://studio.youtube.com/channel/UCENx_4KmAbF8zuJr_CPvrhg)
 - [Vimeo](https://vimeo.com)
+- [Twitter Live Streaming](https://studio.twitter.com/producer)
+- [ツイキャス](https://twitcasting.tv/_mshibata)
 
 ## Podcast
 
