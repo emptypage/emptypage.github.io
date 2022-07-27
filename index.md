@@ -47,6 +47,10 @@
 - [Facebook](https://www.facebook.com)
 - [Instagram](https://www.instagram.com)
 - [tumblr](https://www.tumblr.com/dashboard)
+- [Gravatar](https://ja.gravatar.com/emails/)
+- [Last.fm](https://www.last.fm/user/mshibata)
+- [Spotify](https://open.spotify.com/user/_mshibata)
+- [ブクログ](https://booklog.jp/home)
 
 ## Video
 
