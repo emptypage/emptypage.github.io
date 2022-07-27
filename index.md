@@ -9,7 +9,7 @@
 
 ## Language Package Management
 
-- [PyPI](https://pypi.org/)
+- [PyPI](https://pypi.org/manage/projects/)
 
 ## Documentation
 
