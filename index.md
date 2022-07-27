@@ -24,6 +24,8 @@
 ## Container
 
 - [Docker Hub](https://hub.docker.com/)
+- [emptypage.azurecr.io](https://portal.azure.com/#@masaakishibataoutlook.onmicrosoft.com/resource/subscriptions/2e15f0af-84ea-4b94-9051-d33e1d3b251f/resourceGroups/ContainerResources/providers/Microsoft.ContainerRegistry/registries/emptypage/overview)
+- [registry.digitalocean.com/emptypage](https://cloud.digitalocean.com/registry?i=b38f35)
 
 ## Domain
 
@@ -32,6 +34,7 @@
 ## Hosting
 
 - [さくらのレンタルサーバ](https://secure.sakura.ad.jp/rs/cp/)
+- [emptypage.github.io](https://github.com/emptypage/emptypage.github.io)
 
 ## Blog
 
