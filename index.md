@@ -55,6 +55,7 @@
 - [Spotify](https://open.spotify.com/user/_mshibata)
 - [ブクログ](https://booklog.jp/home)
 - [Discord](https://discord.com/channels/@me)
+- [Ask.fm](https://ask.fm/mshib)
 
 ## Video
 
@@ -71,6 +72,7 @@
 ## Store
 
 - [STORES](https://dashboard.stores.jp)
+- [Suzuri](https://suzuri.jp/mshibata)
 
 ## Mail
 
