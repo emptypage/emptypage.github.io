@@ -54,6 +54,7 @@
 - [Last.fm](https://www.last.fm/user/mshibata)
 - [Spotify](https://open.spotify.com/user/_mshibata)
 - [ブクログ](https://booklog.jp/home)
+- [Discord](https://discord.com/channels/@me)
 
 ## Video
 
