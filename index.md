@@ -1,8 +1,39 @@
-## Cloud Computing
+## Repository
+
+- [Bitbucket](https://bitbucket.org/dashboard/overview)
+- [GitHub](https://github.com/)
+- [GitLab](https://gitlab.com/)
+- [Plastic SCM](https://www.plasticscm.com/dashboard)
+
+## Language Package Management
+
+- [PyPI](https://pypi.org/)
+
+## Cloud
 
 - [Microsoft Azure](https://portal.azure.com/)
 - [Heroku](https://dashboard.heroku.com/apps)
 - [DigitalOcean](https://cloud.digitalocean.com/)
+
+## Container
+
+- [Docker Hub](https://hub.docker.com/)
+
+## Domains
+
+- [GoDaddy](https://jp.godaddy.com/)
+
+## Hosting
+
+- [さくらのレンタルサーバ](https://secure.sakura.ad.jp/rs/cp/)
+
+## Mail
+
+- [SendGrid](https://app.sendgrid.com/)
+
+## URL Shortening
+
+- [Bitly](https://bitly.com/)
 
 ## Welcome to GitHub Pages
 
