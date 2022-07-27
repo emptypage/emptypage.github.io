@@ -11,7 +11,11 @@
 
 - [PyPI](https://pypi.org/)
 
-## Cloud
+## Documentation
+
+- [Read the Docs](https://readthedocs.org/dashboard/)
+
+## Cloud Computing
 
 - [Microsoft Azure](https://portal.azure.com/)
 - [Heroku](https://dashboard.heroku.com/apps)
@@ -21,13 +25,22 @@
 
 - [Docker Hub](https://hub.docker.com/)
 
-## Domains
+## Domain
 
 - [GoDaddy](https://jp.godaddy.com/)
 
 ## Hosting
 
 - [さくらのレンタルサーバ](https://secure.sakura.ad.jp/rs/cp/)
+
+## Blog
+
+- [blog.emptypage.jp](https://blog.emptypage.jp/wp-admin/)
+- [note](https://note.com/emptypage/)
+
+## Store
+
+- [STORES](https://dashboard.stores.jp)
 
 ## Mail
 
@@ -36,6 +49,14 @@
 ## URL Shortening
 
 - [Bitly](https://bitly.com/)
+
+## Make
+
+- [DMM.make 3Dプリント](https://make.dmm.com/mypage/)
+
+## 3D
+
+- [Sketchfab](https://sketchfab.com/mshibata)
 
 ## Welcome to GitHub Pages
 
