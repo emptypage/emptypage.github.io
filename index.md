@@ -41,6 +41,8 @@
 
 - [blog.emptypage.jp](https://blog.emptypage.jp/wp-admin/)
 - [note](https://note.com/emptypage/)
+- [pearlyhailstone](https://www.blogger.com/blog/posts/3346166058700838798?hl=ja&tab=jj)
+- [冬ごもり](https://www.blogger.com/blog/posts/4534610264996439001?hl=ja)
 
 ## Social
 
