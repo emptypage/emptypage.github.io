@@ -30,6 +30,7 @@
 ## Domains
 
 - [GoDaddy](https://jp.godaddy.com/)
+- [さくらのドメイン](https://secure.sakura.ad.jp/domain/domains)
 
 ## Hosting
 
