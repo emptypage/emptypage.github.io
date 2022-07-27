@@ -37,6 +37,7 @@
 
 - [blog.emptypage.jp](https://blog.emptypage.jp/wp-admin/)
 - [note](https://note.com/emptypage/)
+- [tumblr](https://www.tumblr.com/dashboard)
 
 ## Store
 
@@ -54,9 +55,10 @@
 
 - [DMM.make 3Dプリント](https://make.dmm.com/mypage/)
 
-## 3D
+## Art
 
 - [Sketchfab](https://sketchfab.com/mshibata)
+- [Pixiv](https://www.pixiv.net/dashboard)
 
 ## Welcome to GitHub Pages
 
